@@ -1,0 +1,33 @@
+/* VideoCall */
+
+.video_grid {
+    height: 100%;
+    width: 100%;
+    margin-left: 10px;
+    /* background-color: black; */
+    border-radius: 20px;
+}
+.control_grid{
+    height: 5%;
+}
+
+/* video */
+
+.video_div {
+    height: 100%;
+    /* background-color: black; */
+    border-radius: 20px red 1px;
+}
+.me{
+     height: 100%;
+     width: 100%; 
+     border-radius: 20px;
+     background-color: black;
+}
+.other{
+    height: 100%;
+    background-color: black;
+    width: 100%;
+    margin-left: 10px;
+    border-radius: 20px;
+}
